@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyStarRatingView (1.0.4)
+
+DEPENDENCIES:
+  - SwiftyStarRatingView
+
+SPEC REPOS:
+  trunk:
+    - SwiftyStarRatingView
+
+SPEC CHECKSUMS:
+  SwiftyStarRatingView: a2b0057700e0adeb8e7442c55d99cb53b531d2f4
+
+PODFILE CHECKSUM: 7e4d33d71ad07f888348d465f0662225d7efcfa9
+
+COCOAPODS: 1.10.1
